@@ -1,4 +1,4 @@
-# Personal_expense_tracker_AOOC
+# Personal_expense_tracker
 Personal Finance Tracker (Java) is a simple console app to track income, expenses, and generate monthly reports.
 ---
 
